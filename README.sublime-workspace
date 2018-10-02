@@ -1,0 +1,664 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new_user_conver",
+				"new_user_convert_amt_in_15days"
+			],
+			[
+				"new_user_re",
+				"new_user_rebuy_in_15days"
+			],
+			[
+				"coop_mem",
+				"coop_member_id"
+			],
+			[
+				"fir",
+				"first_success_gorder_id"
+			],
+			[
+				"first",
+				"first_success_pay_time"
+			],
+			[
+				"after",
+				"after_prefr_amount_sum"
+			],
+			[
+				"M",
+				"MethodType"
+			],
+			[
+				"run",
+				"run_command"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"b",
+				"BeautifulSoup"
+			],
+			[
+				"make",
+				"makeitalic"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"rep",
+				"repl_open"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SendTextPlus/Python - Source File.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SendTextPlus/Python - Source File.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 162.0,
+		"last_filter": "push",
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"gitsta",
+				"Git: Stash"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"gitpu",
+				"Git: Push"
+			],
+			[
+				"gitpush",
+				"Git: Push"
+			],
+			[
+				"gitpul",
+				"Git: Pull"
+			],
+			[
+				"check",
+				"Git: Checkout"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"git: bran",
+				"Git: Checkout Remote Branch"
+			],
+			[
+				"git: pu",
+				"Git: Push"
+			],
+			[
+				":x",
+				"Set Syntax: XML"
+			],
+			[
+				"gitpus",
+				"Git: Push"
+			],
+			[
+				"gitp",
+				"Git: Push Current Branch"
+			],
+			[
+				"bran",
+				"Git: Checkout New Branch"
+			],
+			[
+				"merge",
+				"Git: Merge"
+			],
+			[
+				"che",
+				"Git: Checkout"
+			],
+			[
+				"mer",
+				"Git: Merge"
+			],
+			[
+				"pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"ch",
+				"Git: Checkout"
+			],
+			[
+				"add",
+				"Git: Add Remote"
+			],
+			[
+				"puc",
+				"Git: Pull Current Branch"
+			],
+			[
+				"gar",
+				"Git: Add Remote"
+			],
+			[
+				"push cu",
+				"Git: Push Current Branch"
+			],
+			[
+				"show",
+				"Git: Show"
+			],
+			[
+				"pcb",
+				"Git: Push Current Branch"
+			],
+			[
+				"curr",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitche",
+				"Git: Checkout New Branch"
+			],
+			[
+				"gph",
+				"Git: Push Current Branch"
+			],
+			[
+				"git:re",
+				"Git: Remote"
+			],
+			[
+				"gp",
+				"Git: Push"
+			],
+			[
+				"gs",
+				"Git: Status"
+			],
+			[
+				"gin",
+				"Git: Init"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"gi",
+				"Git: Fetch"
+			],
+			[
+				"git:pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"g",
+				"Git: Status"
+			],
+			[
+				"git:ver",
+				"Git: Version"
+			],
+			[
+				"git:in",
+				"Git: Init"
+			],
+			[
+				"git: ver",
+				"Git: Version"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"ST: Setup Connections",
+				"ST: Setup Connections"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: __magic__"
+			],
+			[
+				"repl r",
+				"SublimeREPL: R"
+			],
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 442.0
+	},
+	"console":
+	{
+		"height": 282.0,
+		"history":
+		[
+			"view.run_command('example')",
+			"view.run_command(example)",
+			"sublime.log_commands(True)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Huan/Desktop/learn-python3/README.md",
+		"/Users/Huan/Desktop/Work/异业联盟/README.md",
+		"/Users/Huan/Desktop/Work/异业联盟/remindme",
+		"/Users/Huan/Desktop/Work/异业联盟/02",
+		"/Users/Huan/Desktop/Work/异业联盟/01",
+		"/Users/Huan/Desktop/Work/异业联盟/异业联盟.sql",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/Users/Huan/Desktop/Work/异业联盟/二级渠道转化明细 v3.2.sql",
+		"/Users/Huan/Desktop/Work/异业联盟/123.sql",
+		"/Users/Huan/Desktop/Work/异业联盟/商品毛利计算.sql",
+		"/Users/Huan/Desktop/Work/异业联盟/新客数据 - impala.sql",
+		"/Users/Huan/Desktop/Work/异业联盟/abc.sql",
+		"/Users/Huan/Desktop/三级渠道转化明细 v3.2.1.sql",
+		"/Users/Huan/Library/Mobile Documents/iCloud~run~surge/Documents/Mac.conf",
+		"/Users/Huan/Library/Mobile Documents/iCloud~run~surge/Documents/Proxy.conf",
+		"/private/etc/hosts",
+		"/Users/Huan/Desktop/二级渠道转化明细 v3.2.sql",
+		"/Users/Huan/Desktop/三级渠道转化明细 v3.2.sql",
+		"/Users/Huan/Desktop/test.html",
+		"/Users/Huan/Desktop/ADMaster.py",
+		"/Users/Huan/PycharmProjects/app/templates/home.html",
+		"/Users/Huan/.jupyter/custom/custom.css",
+		"/Users/Huan/Desktop/coordmap.json",
+		"/Users/Huan/Desktop/data.json",
+		"/Users/Huan/Desktop/ADMaster/AdMaster.py",
+		"/Users/Huan/Desktop/12306.py",
+		"/Users/Huan/Desktop/miaozhen.html",
+		"/Users/Huan/Desktop/coordinate.json",
+		"/Users/Huan/Desktop/test.json",
+		"/Users/Huan/Library/Mobile Documents/iCloud~run~surge/Documents/JD.conf",
+		"/Users/Huan/Desktop/Hadoop/Hadoop Learning Notes",
+		"/Users/Huan/Desktop/Hadoop/Hive Notes",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Huan/Desktop/网址下载/iPhone为什么还不支持刷地铁？.html",
+		"/Users/Huan/Desktop/SQL/促销订单明细.sql",
+		"/Users/Huan/Desktop/test.txt",
+		"/Users/Huan/Desktop/最近一天GMV.sql",
+		"/Users/Huan/Desktop/最近一天GMV_old.sql",
+		"/Users/Huan/Desktop/pc端uv_v1.sql",
+		"/Users/Huan/Desktop/pc端uv_v2.sql",
+		"/Users/Huan/Desktop/pc端uv_v3.sql",
+		"/Users/Huan/Desktop/pc端uv_v4.sql",
+		"/Users/Huan/Desktop/pc端uv_v0.sql",
+		"/Users/Huan/Desktop/最近一天GMV",
+		"/Users/Huan/Downloads/促销sql 改进.sql",
+		"/Users/Huan/Downloads/WIFI 订单明细/促销带省份.txt",
+		"/Users/Huan/Downloads/test/test1.txt",
+		"/Users/Huan/Desktop/SQL/test.sql",
+		"/Users/Huan/Desktop/Hadoop/Hadoop 学习笔记",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/standards/function.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/standards/control.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/standards/option.xml",
+		"/Users/Huan/Library/Application Support/Karabiner/private.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/standards/escape.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/custom_shortcuts.xml",
+		"/Users/Huan/Desktop/property.py",
+		"/Users/Huan/Library/Mobile Documents/iCloud~run~surge/Documents/Main.conf",
+		"/Users/Huan/Documents/Coding/Python/Notes/Learning Notes of Pythoning.py",
+		"/Users/Huan/Documents/Coding/Git/learn-python3/dict_and_set.py",
+		"/Users/Huan/Desktop/模块1.bas",
+		"/Applications/MacVim.app/Contents/Resources/vim/gvimrc",
+		"/Users/Huan/Documents/Coding/Git/learn-python3/list_and_tuple.py",
+		"/Users/Huan/Documents/Coding/Git/learn-python3/learning_notes.py",
+		"/Users/Huan/Documents/Coding/R/Notes for the Art of R Programming.r",
+		"/Users/Huan/.ssh/id_rsa.pub",
+		"/Users/Huan/.ssh/known_hosts",
+		"/Users/Huan/.ssh/id_rsa",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/My Examples/Context.sublime-menu",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/My Examples/my_first_plugin.py",
+		"/Users/Huan/Desktop/hello.py",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/User/SQLToolsConnections.sublime-settings",
+		"/Users/Huan/Library/Mobile Documents/iCloud~run~surge/Documents/.surge.conf",
+		"/Users/Huan/.surge.conf",
+		"/Users/Huan/Desktop/REPL/SQLExec/SQLExec.py",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/My Examples/Side Bar.sublime-menu",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/My Examples/Main.sublime-menu",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/My Examples/Default (OSX).sublime-keymap",
+		"/Users/Huan/Library/Application Support/Sublime Text 2/Packages/SQLExec/SQLExec.sublime-settings",
+		"/Users/Huan/Library/Application Support/Sublime Text 2/Packages/SQLExec/SQLExec.py",
+		"/Users/Huan/Desktop/11111.sql",
+		"/Users/Huan/Desktop/test1.sql",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/User/SQLExec.sublime-settings",
+		"/Users/Huan/Desktop/test.sql",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/User/Mysql.sublime-build",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/SQLExec/Default (OSX).sublime-keymap",
+		"/Users/Huan/Downloads/sublime-sqlexec-master/SQLExec.sublime-settings",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/User/mysql.sublime-build",
+		"/Users/Huan/Library/Application Support/Sublime Text 2/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/User/MySQL.sublime-build",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/SQLExec/SQLExec.sublime-settings",
+		"/Users/Huan/Desktop/hello.sublime-snippet",
+		"/Users/Huan/Documents/Coding/Python/welcome.py",
+		"/Users/Huan/Desktop/123.sql",
+		"/Users/Huan/.vimrc",
+		"/Users/Huan/.pythonstartup",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/Users/Huan/Library/Eudb_en/mwal.css",
+		"/Users/Huan/Library/Eudb_en/牛津高阶8 (繁体)/O8C.css",
+		"/Users/Huan/Library/Eudb_en/O8C.css",
+		"/Users/Huan/Downloads/Aria2/The New Oxford Dictionary of English 2nd (CN)/The New Oxford Dictionary of English 2nd (CN).mdx",
+		"/Users/Huan/Desktop/HTML/test.html",
+		"/Users/Huan/Desktop/HTML/test.css",
+		"/Users/Huan/Desktop/HTML/wikipedia.html",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/Users/Huan/Desktop/test.css",
+		"/Users/Huan/Desktop/menu.html",
+		"/Users/Huan/Desktop/test1.html",
+		"/Users/Huan/Desktop/untitled.html",
+		"/Users/Huan/.aria2/aria2.conf",
+		"/Users/Huan/Downloads/Aria2/Stephen D Krashen - Principles and Practice in Second Language Acquisition.mobi.aria2",
+		"/Users/Huan/Desktop/sample.py",
+		"/Users/Huan/Desktop/Learning Notes of Pythoning.py",
+		"/Users/Huan/Desktop/test.py",
+		"/Users/Huan/Documents/Coding/Python/test.py",
+		"/Users/Huan/.bashrc",
+		"/Users/Huan/Documents/Coding/Python/Notes/Python 学习笔记",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/config/Python/Default.sublime-commands",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/Users/Huan/Library/Mobile Documents/iCloud~run~surge/Documents/Test.conf",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/User/SendText+.sublime-settings",
+		"/Users/Huan/Library/Application Support/Sublime Text 3/Packages/SendTextPlus/SendText+.sublime-settings",
+		"/Users/Huan/Documents/Shadowsocks",
+		"/Users/Huan/surge/.surge.conf",
+		"/Users/Huan/Downloads/TED-talks-in-high-quality.zh-cn.metalink"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 94.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 271.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-checkout":
+	{
+		"height": 157.0
+	},
+	"output.git-commit":
+	{
+		"height": 164.0
+	},
+	"output.git-init":
+	{
+		"height": 98.0
+	},
+	"output.git-merge":
+	{
+		"height": 98.0
+	},
+	"output.git-pull":
+	{
+		"height": 98.0
+	},
+	"output.git-push":
+	{
+		"height": 162.0
+	},
+	"output.git-remote":
+	{
+		"height": 165.0
+	},
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
